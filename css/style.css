@@ -753,7 +753,7 @@ a:focus {
   content: "";
   width: 50px;
   height: 155px;
-  background-color: #0f2480;
+  /* background-color: #0f2480; */
   position: absolute;
   left: 10%;
   top: 37px;
